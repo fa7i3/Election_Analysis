@@ -1,6 +1,7 @@
 # Election_Analysis
 Overview of Election Audit:
   The purpose of this election audit analysis is to know the total number of votes from all counties, the percentage of votes for each county, the percentage of votes for each individual and the winner of the election. This analysis also provides the winner's vote count and the percentage of the count.
+
 Election-Audit Results:
   > How many votes were cast in the congressional election?
  * There were 369,711 votes cast in the congressional election.
