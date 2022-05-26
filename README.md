@@ -3,7 +3,8 @@ Overview of Election Audit:
   The purpose of this election audit analysis is to know the total number of votes from all counties, the percentage of votes for each county, the percentage of votes for each individual and the winner of the election. This analysis also provides the winner's vote count and the percentage of the count.
 Election-Audit Results:
   > How many votes were cast in the congressional election?
-  There were 369,711 votes cast in the congressional election.
+ * There were 369,711 votes cast in the congressional election.
+ 
   > Provide a breakdown of the number of votes and the percentage of the total votes for each county in the precinct.
  * Jefferson county had a total of 38,855 votes which was 10.5% of the votes.
  * Denver county had a total of 306,055 votes which was 82.8% of the votes.
@@ -14,7 +15,7 @@ Election-Audit Results:
 
 
  > Which county had the largest number of votes?
- Denver had the largest number of votes.
+ * Denver had the largest number of votes.
  
  > Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
  * Charles Casper Stockham received a total number of 85,213 votes which was 23.0% of the votes.
@@ -27,4 +28,4 @@ Election-Audit Results:
  
  
 > Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-Diana DeGette won the election with a total number of 272,892 votes whcih was 73.8% of the total votes. 
+* Diana DeGette won the election with a total number of 272,892 votes whcih was 73.8% of the total votes. 
