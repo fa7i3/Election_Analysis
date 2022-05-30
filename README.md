@@ -21,7 +21,7 @@ Election-Audit Results:
  > Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
  * Charles Casper Stockham received a total number of 85,213 votes which was 23.0% of the votes.
  * Diana DeGette received a total number of 272,892 votes which was 73.8% of the votes.
- * Raymon Anthony Doane received a total number of 11,606 votes whcih was 3.1% of the votes.
+ * Raymon Anthony Doane received a total number of 11,606 votes which was 3.1% of the votes.
  
  
  ![Candidate votes](https://user-images.githubusercontent.com/104453593/170396094-e1dc08a9-b63c-453e-9b3c-cff738283aa7.PNG)
@@ -29,4 +29,4 @@ Election-Audit Results:
  
  
 > Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-* Diana DeGette won the election with a total number of 272,892 votes whcih was 73.8% of the total votes. 
+* Diana DeGette won the election with a total number of 272,892 votes which was 73.8% of the total votes. 
